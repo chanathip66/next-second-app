@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "SAU Product SALE",
   description: "เว็บไซต์ขายสินค้าของนักศึกษา มหาวิทยาลัยเอเชียอาคเนย์",
   keywords: ["mobile", "laptop", "computer", "tablet", "accessories", "smartphone", "electronics", "gadget"],
-  authors: [{ name: "NinniN DTI", url: "https://www.sauproductsale.com" }],
+  authors: [{ name: "MO SAU", url: "https://www.sauproductsale.com" }],
   openGraph: {
     title: "SAU Product SALE",
     description: "เว็บไซต์ขายสินค้าของนักศึกษา มหาวิทยาลัยเอเชียอาคเนย์",
